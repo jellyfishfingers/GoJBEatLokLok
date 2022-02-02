@@ -1,6 +1,16 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background-color: background-color: coral;
+    background-color: lightskyblue;
+}
+
+.darkmode { 
+  background-color: black;
+  color: white;
+}
+
+.displaypic 
+{ 
+  border-radius: 5%;
 }
 
 .header { 
@@ -14,7 +24,6 @@ body {
     margin-top:20px;
     padding-left:20px;
     font-size: 25px;
-
 }
 
 .header img { 
