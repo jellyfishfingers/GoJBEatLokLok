@@ -17,5 +17,6 @@ I built this app before the Year 2020. Currently there are restrictions in trave
 ### Improvements to work on: 
 1. Use Javascript instead of the JQuery library.
 2. Change the display dates to include day of the week as well.
-3. Include Traffic Conditions from the 2nd Causeway. 
+3. Include Traffic Conditions from the 2nd Causeway. (Done)
 4. Perhaps automatic calls to the library every 30 seconds?
+5. Make the page prettier. Omg.
