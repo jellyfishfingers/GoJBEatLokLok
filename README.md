@@ -8,7 +8,7 @@ I'm making use of public API from our country's dataset to retrieve the informat
 https://data.gov.sg/dataset/traffic-images
 
 
-You can view the website here.
+*View Site here*
 https://jellyfishfingers.github.io/GoJBEatLokLok/
 
 ### Notes
